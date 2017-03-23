@@ -4,6 +4,7 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
  * Name: (Risto Zimbakov)
  * Teacher: Mr. Hardman
  * Assignment #2, GifPlayingProgram
+ * Date Last Modified: 3/20/2017
  */
 public class MyWorld extends World
 {
@@ -14,10 +15,6 @@ public class MyWorld extends World
     private int gifSpeedCounter = 0;
     private int actCycle = 0;
 
-    /**
-     * Constructor for objects of class MyWorld.
-     * 
-     */
     public MyWorld()
     {    
         super(370, 365, 1); 

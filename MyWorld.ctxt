@@ -1,9 +1,8 @@
 #BlueJ class context
 comment0.target=MyWorld
-comment0.text=\r\n\ Name\:\ (Risto\ Zimbakov)\r\n\ Teacher\:\ Mr.\ Hardman\r\n\ Assignment\ \#2,\ GifPlayingProgram\r\n
+comment0.text=\r\n\ Name\:\ (Risto\ Zimbakov)\r\n\ Teacher\:\ Mr.\ Hardman\r\n\ Assignment\ \#2,\ GifPlayingProgram\r\n\ Date\ Last\ Modified\:\ 3/20/2017\r\n
 comment1.params=
 comment1.target=MyWorld()
-comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ MyWorld.\r\n\ \r\n
 comment2.params=
 comment2.target=void\ started()
 comment2.text=\r\n\ started\ sets\ startTime\ equal\ to\ systemcurrentMillis\ and\ makes\ sure\ \r\n\ peanutbutter\ jelly\ is\ infinite\r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ nothing\ is\ returned\r\n
